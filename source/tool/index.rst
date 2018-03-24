@@ -1,3 +1,5 @@
+.. _researchtool-overview:
+
 Research Tool
 ==================
 
