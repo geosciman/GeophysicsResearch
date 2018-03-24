@@ -2,7 +2,7 @@
 Geophysics Research
 ========================
 
-.. include:: _version.inc
+``.. include:: _version.inc``
 
 前言
 ----
@@ -51,13 +51,14 @@ Geophysics Research
 .. toctree::
     :maxdepth: 2
     :glob:
+    :caption: 目录
     
     base/index
     tool/index
 
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
