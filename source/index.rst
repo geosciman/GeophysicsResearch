@@ -1,0 +1,64 @@
+==========
+Geophysics Research
+==========
+
+.. include:: _version.inc
+
+前言
+----
+
+记录Geophysics学习研究过程中遇到的问题及关键知识点以及记录研究过程中的软件的使用说明，
+大部分是基于自身的使用习惯及目的，很多东西随时可能会变化。
+
+说明
+^^^^^^^^^^^^^^^^^^^^
+
+全书暂定两个部分：
+
+- 第一部分为基础篇，记录学习研究过程中的知识点；
+- 第二部分为资源篇，记录常用的资源及使用方法。
+
+建议
+^^^^^^^^^^^^^^^^^^^^
+1. 最少必要知识理念
+2. 阶段性的反思总结
+
+写作工具
+^^^^^^^^^^^^^^^^^^^^
+本书使用的reStructuredText标记语言，相对Markdown来说，在写书方面更有优势:
+
+- 使用sphnix能够自动生成目录和索引文件，方便查询和检索；
+- 有大量漂亮的HTML书籍主题模版，可为书籍轻松换肤（类似Wordpress的网站模版）；
+- 对于参考手册类书籍的编写在语法上更为便利（python官方帮助文档的使用者）；
+
+
+
+^^^^^^^^^^^^^^^^^^^^
+
+版权声明
+^^^^^^^^^^^^^^^^^^^^^
+.. note:: 
+    本资料主要是个人使用。
+
+    - 作者：GeosciMan
+    - 博客：http://geosciman.github.io
+    - Github地址：https://github.com/geosciman/GeophysicsResearch
+
+
+目录
+----
+
+.. toctree::
+    :maxdepth: 2
+    :glob:
+    
+    base/index
+    tool/index
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
