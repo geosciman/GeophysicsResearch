@@ -44,7 +44,7 @@ else:
     html_theme = 'sphinx_rtd_theme'
     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_theme_options = {
-    'analytics_id': 'UA-107774305-2',    # Google Analytics
+    # 'analytics_id': 'UA-107774305-2',    # Google Analytics
     'collapse_navigation': False,
     'sticky_navigation': False,
     'display_version': False,
