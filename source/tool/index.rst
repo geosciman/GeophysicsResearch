@@ -1,4 +1,4 @@
-Base
+Research Tool
 ==================
 
 .. toctree::
