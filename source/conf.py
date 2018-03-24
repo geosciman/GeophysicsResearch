@@ -2,7 +2,7 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('.'))
+# sys.path.insert(0, os.path.abspath('.'))
 
 project = u'Geophysics'
 copyright = u'2018, GeosciMan'
