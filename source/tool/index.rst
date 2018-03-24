@@ -5,7 +5,7 @@ Research Tool
 
 .. toctree::
    :maxdepth: 3
-   :caption: 目录
+   :numbered: 2
 
    geophysicist
    
