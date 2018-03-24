@@ -30,7 +30,6 @@ source_encoding = 'utf-8-sig'
 nitpicky = True
 numfig = True
 master_doc = 'index'
-language = 'zh_CN'
 exclude_patterns = []
 pygments_style = 'sphinx'
 todo_include_todos = True
