@@ -25,7 +25,7 @@ script:
   - make latexpdf
 
 after_success:
-  - cp build/latex/Makefile.pdf build/html/
+  - cp build/latex/Geophysics.pdf build/html/
 
 deploy:
   provider: pages
