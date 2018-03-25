@@ -1,7 +1,7 @@
 Script
 ========================
 
-Perl: https://www.perl.org/
+.._`Perl`: https://www.perl.org/
 
 Python
 
