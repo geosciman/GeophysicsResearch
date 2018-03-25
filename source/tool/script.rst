@@ -1,9 +1,9 @@
 Script
 ========================
 
-.._`Perl`: https://www.perl.org/
+.._Perl: https://www.perl.org/
 
-.._`Python`: https://www.python.org/
+.._Python Document: https://www.python.org/
 
 MatLab
 
