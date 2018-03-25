@@ -3,7 +3,7 @@ Script
 
 .._`Perl`: https://www.perl.org/
 
-Python
+.._`Python`: https://www.python.org/
 
 MatLab
 
