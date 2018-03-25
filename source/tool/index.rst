@@ -8,4 +8,5 @@ Research Tool
    :numbered: 2
 
    geophysicist
+   script
    
