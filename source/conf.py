@@ -14,7 +14,7 @@ author = u'GeosciMan'
 # built documents.
 #
 verstr = 'unknown'
-VERSIONFILE = "../bruges/_version.py"
+VERSIONFILE = "_version.py"
 with open(VERSIONFILE, "r")as f:
     verstrline = f.read().strip()
     pattern = re.compile(r"__version__ = ['\"](.*)['\"]")
