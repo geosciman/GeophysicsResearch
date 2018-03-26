@@ -2,7 +2,7 @@
 Geophysics Research
 ========================
 
-``.. include:: _version.inc``
+.. include:: _version.py
 
 前言
 ----
