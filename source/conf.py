@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #
+import re
 import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
@@ -8,8 +9,29 @@ project = u'Geophysics'
 copyright = u'2018, GeosciMan'
 author = u'GeosciMan'
 
-version = u'1.0'
-release = u'1.0'
+# The version info for the project you're documenting, acts as replacement for
+# |version| and |release|, also used in various other places throughout the
+# built documents.
+#
+verstr = 'unknown'
+VERSIONFILE = "../bruges/_version.py"
+with open(VERSIONFILE, "r")as f:
+    verstrline = f.read().strip()
+    pattern = re.compile(r"__version__ = ['\"](.*)['\"]")
+    mo = pattern.search(verstrline)
+if mo:
+    verstr = mo.group(1)
+    print("Version "+verstr)
+else:
+    raise RuntimeError("Unable to find version string in %s." % (VERSIONFILE,))
+
+# The short X.Y version.
+version = verstr[:3]
+# The full version, including alpha/beta/rc tags.
+release = verstr
+
+# version = u'1.0'
+# release = u'1.0'
 needs_sphinx = '1.5'
 
 extensions = [
@@ -21,6 +43,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
+    'sphinx.ext.napoleon',  # 2018年3月26日14:37:20
     'sphinx.ext.githubpages',
 ]
 
