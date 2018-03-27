@@ -7,4 +7,4 @@ Research Tool
    :maxdepth: 3
    :numbered: 2
 
-   just thought
+   justthought
