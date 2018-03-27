@@ -53,6 +53,7 @@ Geophysics Research
     
     base/index
     tool/index
+    life/index
 
 
 Indices and tables
