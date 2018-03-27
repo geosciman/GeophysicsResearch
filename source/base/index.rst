@@ -1,6 +1,6 @@
-.. _base-overview:
+.. _researchbase-overview:
 
-Base
+Research Base
 ==================
 
 .. toctree::

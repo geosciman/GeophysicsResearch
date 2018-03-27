@@ -1,6 +1,6 @@
-.. _life-overview:
+.. _researchlife-overview:
 
-Research Tool
+Research Life
 ==================
 
 .. toctree::
