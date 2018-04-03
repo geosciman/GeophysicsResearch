@@ -2,18 +2,19 @@
 
 # 编译文档网页
 make html
-make latexpdf
+# make latexpdf    # 后期可以不用
 
-# 使用 ghp-import 导出_build/html 目录到 gh-pages 分支。注意一定要使用 -n 
-# 参数来生成.nojekyll 文件。
-# 手动发布，可以利用Travis CI实现自动发布(利用密码验证)，具体参见.travis.yml文件。
-ghp-import -n build/html/
+# # 初次使用
+# # 使用 ghp-import 导出_build/html 目录到 gh-pages 分支。注意一定要使用 -n 
+# # 参数来生成.nojekyll 文件。
+# # 手动发布，可以利用Travis CI实现自动发布(利用密码验证)，具体参见.travis.yml文件。
+# ghp-import -n build/html/
 
 # 分别 push master 分支和 gh-pages 分支到 github 。
-git add $1
+git add .
 git commit -m $1
 git push -u origin master
-git push -u origin gh-pages
+# git push -u origin gh-pages   # 初次使用
 
 ###############################################################################
 # 存在的问题                                                                  #
