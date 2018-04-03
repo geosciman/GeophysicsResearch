@@ -49,7 +49,6 @@ Geophysics Research
 .. toctree::
     :maxdepth: 2
     :glob:
-    :caption: 目录
     
     base/index
     tool/index
