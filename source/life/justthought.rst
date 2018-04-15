@@ -5,6 +5,8 @@ Just Thought
 -------------------
 最初开始的这半年感觉没有做出什么成果，感觉自己的压力非常地大，自己也是没有办法理解自己。感觉对于任何事情都是没有什么想法，感觉很是抑郁。有些事情可能就是自己看错了，自己理解错了，问题就是出现在自己的身上。
 
+All in all, I am much indebted to all of these individuals, who, directly or indirectly, guided me during all these years.
+
 这个过程就是为了理解自己，感受自己，认识自己。
 
 下面这段话是整整一年 (2017年04月11日) 前写的，这么久来，自己还是没有做到。
