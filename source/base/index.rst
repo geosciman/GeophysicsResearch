@@ -1,6 +1,6 @@
 .. _researchbase-overview:
 
-Research Base
+Foundation
 ==================
 
 .. toctree::

@@ -1,6 +1,6 @@
 .. _researchtool-overview:
 
-Research Tool
+Implement
 ==================
 
 .. toctree::
