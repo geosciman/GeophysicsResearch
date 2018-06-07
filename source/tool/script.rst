@@ -15,6 +15,9 @@ Script
 
 注意主要库的位置及使用方法，尤其是点引用以及括号引用的函数，`A.todense()` 和 `solve（A,X)`。
 
+ImportError: No module named babel.dates.
+安装Python-flask-babel.
+
 MatLab
 
 正则表达式
