@@ -66,6 +66,7 @@ else:
     import sphinx_rtd_theme
     html_theme = 'sphinx_rtd_theme'
     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+    templates_path = ['_templates']
 html_theme_options = {
     # 'analytics_id': 'UA-107774305-2',    # Google Analytics
     'collapse_navigation': True,
@@ -92,7 +93,7 @@ htmlhelp_basename = 'Geophysics'
 # LaTeX
 latex_engine="xelatex"
 latex_elements = {
-        'papersize' : 'a4paper',
+    'papersize' : 'a4paper',
     'utf8extra' : '',
     'inputenc'  : '',
     'cmappkg'   : '',
