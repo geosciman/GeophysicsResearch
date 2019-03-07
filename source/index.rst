@@ -14,7 +14,8 @@ Geophysics Research
 全书暂定两个部分：
 
 - 第一部分为基础篇，记录学习研究过程中的知识点；
-- 第二部分为资源篇，记录常用的资源及使用方法。
+- 第二部分为资源篇，记录常用的资源及使用方法；
+- 第三部分为生活篇，记录自己的生活及心路历程。
 
 建议
 ^^^^^^^^^^^^^^^^^^^^
@@ -54,10 +55,3 @@ Geophysics Research
     tool/index
     life/index
 
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
